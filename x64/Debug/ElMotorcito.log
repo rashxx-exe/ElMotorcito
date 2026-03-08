@@ -1,0 +1,6 @@
+﻿  Motor.cpp
+C:\Users\arcis\Desktop\ElMotorcito\ElMotorcito\Motor.cpp(13,9): warning C4005: 'SDL_RenderFillRectF': redefinición de macro
+      C:\Users\arcis\Desktop\ElMotorcito\ElMotorcito\libs\sdl3\include\SDL3\SDL_oldnames.h(1166,9):
+      vea la definición anterior de “SDL_RenderFillRectF”
+  
+  ElMotorcito.vcxproj -> C:\Users\arcis\Desktop\ElMotorcito\ElMotorcito\x64\Debug\ElMotorcito.exe
